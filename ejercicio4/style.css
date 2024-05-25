@@ -1,0 +1,8 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 200px;
+    height: 200px;
+
+}
